@@ -1,0 +1,11 @@
+*.class
+*.jasper
+*.o
+*.obj
+*.out
+.svn
+wms/les/mtfclient/build/
+**/.vs/
+**/Backup/
+**/obj/
+UpgradeLog.htm
